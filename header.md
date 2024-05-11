@@ -2,8 +2,6 @@
 
 # Я Паша Простой
 
-### Дизайнер, программист из Самары
-
 <div class="p-linksblock">
 
 [почта](mailto:hello@pavelprostoy.ru) 
