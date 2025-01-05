@@ -11,17 +11,7 @@
     },
     {
         "name": "Телеграм",
-        "url": "https://t.me/my_cla4ik_f0rmy",
+        "url": "https://t.me/pavelprostoy",
         "icon": "/images/telegram.svg"
-    },
-    {
-        "name": "Написать",
-        "url": "mailto:hello@pavelprostoy.ru",
-        "icon": "/images/mail.svg"
-    },
-    {
-        "name": "Поддержать ;-)",
-        "url": "https://t.me/tribute/app?startapp=d70u",
-        "icon": "/images/tribute.svg"
     }
 ]

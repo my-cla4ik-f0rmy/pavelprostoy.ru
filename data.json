@@ -1,29 +1,30 @@
 [
-    {
-      "title": "Логотип метро Самары",
-      "year": 2023,
-      "imgUrl": "/images/metro.png",
-      "url": "https://www.behance.net/gallery/166067677/metro-samary"
-    },
-    {
-      "title": "Иконка расписания ОГУ",
-      "year": 2023,
-      "imgUrl": "/images/ogu-shedule.png",
-      "url": "https://apps.apple.com/ru/app/расписание-огу/id6450613473"
-    },
-    {
-      "title": "Логотип Колледжа Связи",
-      "year": 2020,
-      "imgUrl": "/images/psuticollege.png",
-      "url": "https://www.behance.net/gallery/134286303/logotip-kolledzha-svjazi-College-of-Communications-Logo"
-    },
-    {
-      "title": "Схема электричек Самарской области",
-      "year": 2024,
-      "imgUrl": "/images/samara-traincxema.png",
-      "url": "https://www.behance.net/gallery/204694891/shema-elektrichek-samarskoj-oblasti"
-    }
-    
-    
-  ]
-
+  {
+    "title": "Логотип метро Самары",
+    "year": 2023,
+    "date": "15-06-2023",
+    "imgUrl": "/images/metro-logo.jpg",
+    "url": "https://www.behance.net/gallery/166067677/metro-samary"
+  },
+  {
+    "title": "Иконка расписания ОГУ",
+    "year": 2023,
+    "date": "20-07-2023",
+    "imgUrl": "/images/ogu-shedule.jpg",
+    "url": "https://apps.apple.com/ru/app/расписание-огу/id6450613473"
+  },
+  {
+    "title": "Логотип Колледжа Связи",
+    "year": 2020,
+    "date": "10-03-2020",
+    "imgUrl": "/images/college-psuti.jpg",
+    "url": "https://www.behance.net/gallery/134286303/logotip-kolledzha-svjazi-College-of-Communications-Logo"
+  },
+  {
+    "title": "Схема электричек Самарской области",
+    "year": 2024,
+    "date": "05-01-2024",
+    "imgUrl": "/images/samara-traincxema.png",
+    "url": "https://www.behance.net/gallery/204694891/shema-elektrichek-samarskoj-oblasti"
+  }
+]
